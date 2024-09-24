@@ -1,3 +1,6 @@
+Experience Revolutionary Technology:
+**Eye and Hand Tracking with Speech Recognition**
+
 This project is an eye-tracking and hand-tracking application with integrated speech recognition. It provides a comprehensive user interaction system by combining these three functionalities. Here is a detailed explanation:
 
 Eye Tracking
